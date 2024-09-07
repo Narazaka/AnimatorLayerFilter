@@ -1,0 +1,19 @@
+{
+  "name": "net.narazaka.vrchat.animator-layer-filter",
+  "version": "0.1.0",
+  "displayName": "Animator Layer Filter",
+  "description": "Animator Layer Filter for MA Merge Animator",
+  "author": {
+    "name": "Narazaka",
+    "url": "https://github.com/Narazaka"
+  },
+  "license": "Zlib",
+  "changelogUrl": "https://github.com/Narazaka/AnimatorLayerFilter",
+  "type": "tool",
+  "url" : "https://github.com/Narazaka/AnimatorLayerFilter.git",
+  "unity": "2019.4",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.0.9",
+    "nadena.dev.modular-avatar": ">=1.0.0 <2.0.0-a"
+  }
+}
