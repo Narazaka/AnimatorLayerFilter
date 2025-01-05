@@ -1,6 +1,6 @@
 # Animator Layer Filter
 
-Animator Layer Filter for Modular Avatar
+Animator Layer Filter for MA Merge Animator
 
 ## Install
 
@@ -13,6 +13,8 @@ Animator Layer Filter for Modular Avatar
 ## Usage
 
 MA Merge Animatorと同じ場所にAnimator Layer FilterをAdd Componentして設定します。
+
+指定したレイヤーのみがマージされるようになります。
 
 ## License
 
